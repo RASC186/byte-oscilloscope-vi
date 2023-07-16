@@ -1,2 +1,2 @@
 # byte-oscilloscope-vi
-Single Channel 8-bit Serial Osciloscope
+Single Channel 8-bit Serial Oscilloscope
